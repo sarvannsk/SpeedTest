@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_88">#e0e0e0</color>
+    <color name="navy_blue">#0072C6</color>
+
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#2d3a4a</color>
+
+
+    <color name="colorBackground">#141526</color>
+    <color name="colorTransparent">#00ffffff</color>
+    <color name="colorCircularProgressBarBackground">#232f4e</color>
+    <color name="colorActiveGaugeText">#ffffff</color>
+    <color name="colorNotActiveGaugeText">#80ffffff</color>
+</resources>

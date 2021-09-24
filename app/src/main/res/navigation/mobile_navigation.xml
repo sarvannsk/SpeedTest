@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_speed_test">
+
+
+    <fragment
+        android:id="@+id/navigation_speed_test"
+        android:name="com.dvara.speedtest.ui.fragment.SpeedTestFragment"
+        android:label="@string/title_speedtest"
+        tools:layout="@layout/fragment_speed_test">
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_search"
+        android:name="com.dvara.speedtest.ui.fragment.SearchFragment"
+        android:label="@string/title_search"
+        tools:layout="@layout/fragment_search">
+    </fragment>
+
+</navigation>

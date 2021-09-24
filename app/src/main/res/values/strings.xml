@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DVARA E-Dairy</string>
+    <string name="title_speedtest">SpeedTest</string>
+    <string name="title_search">Search</string>
+
+    <string name="speed">Speed</string>
+    <string name="start">Start</string>
+    <string name="submit">Submit</string>
+    <string name="please_enter_your_mobile_number">Please enter your mobile number</string>
+</resources>
